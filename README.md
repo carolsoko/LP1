@@ -1,13 +1,6 @@
 # LP1
-Repositório da disciplina de Linguagem de Programação 1
-
-CURSO:  Bacharelado em Sistemas de Informação 
-IFBA CAMPUS: Feira de Santana
-DOCENTE: Ana Carolina Sokolonski Anton
-
-Disciplina
-
-ESP 201 - Linguagem de Programação I
+Repositório da disciplina de ESP 201 - Linguagem de Programação I - IFBA Campus Feira de Santana
+Profª Ana Carolina Sokolonski Anton
 
 Ementa
 
@@ -36,11 +29,6 @@ Recursividade
 Ponteiros
  
 
-Metodologia
-
-Aulas práticas e expositivas com constante participação dos alunos.
-
-
 Avaliação
 
 Prova individual (P1) - 4,0pts
@@ -53,8 +41,7 @@ Lista de Exercícios (L2) - 1,0pt
 
  Média = P1 + L1 + P2 + L2
 
- 
-Referências
+
 
 Bibliografia básica: 
 
