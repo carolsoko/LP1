@@ -1,16 +1,17 @@
 # LP1
 Repositório da disciplina de ESP 201 - Linguagem de Programação I - IFBA Campus Feira de Santana
+
 Profª Ana Carolina Sokolonski Anton
 
-Ementa
+# Ementa
 
 Introdução aos paradigmas de linguagens de programação. Conceitos de linguagens de programação, compilação e interpretação. Estrutura de programas, dado, variável e instrução. Tipos e estruturas elementares de dados. Tipos Abstratos de Dados. Entrada e saída de dados. Operadores. Instruções condicionais, incondicionais e de repetição. Estruturas compostas de dados: vetores, matrizes e registros. Recursividade. Modularização. Noções de arquivos em programação. Algoritmos e aplicações.
 
-Objetivos
+# Objetivos
 
 Ser capaz de resolver problemas através da interpretação de cenários do mundo real, modelando soluções através de algoritmos e estruturas de dados básicas e implementando as soluções através de programas de computador escritos em uma linguagem de programação estruturada.
 
-Conteúdo programático
+# Conteúdo programático
 
 Linguagens de programação: Principais linguagens de programação e suas características, compiladores e interpretadores
 Introdução à linguagem C
@@ -29,7 +30,7 @@ Recursividade
 Ponteiros
  
 
-Avaliação
+# Avaliação
 
 Prova individual (P1) - 4,0pts
 
@@ -43,7 +44,7 @@ Lista de Exercícios (L2) - 1,0pt
 
 
 
-Bibliografia básica: 
+# Bibliografia básica: 
 
 CORMEN, T. H. et al. Introduction to Algorithms. 2nd. ed. [S.l.]: The MIT Press, 2009. ISBN 0262032937.
 
@@ -64,7 +65,7 @@ DAMAS, Luis. Linguagem C. 10. ed. Rio de Janeiro: LTC, 2007. x, 410 p. ISBN 8521
 
  
 
-Bibliografia complementar: 
+# Bibliografia complementar: 
 
 LEISERSON, Charles E; RIVEST, Ronald L.; STEIN, Clifford; CORMEN, Thomas H. Algoritmos: teoria e prática. Rio de Janeiro: Elsevier, 2012. 926 p. ISBN 9788535236996 (4 exemplares)
 
