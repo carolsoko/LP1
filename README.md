@@ -1,2 +1,93 @@
 # LP1
 Repositório da disciplina de Linguagem de Programação 1
+
+CURSO:  Bacharelado em Sistemas de Informação 
+IFBA CAMPUS: Feira de Santana
+DOCENTE: Ana Carolina Sokolonski Anton
+
+Disciplina
+
+ESP 201 - Linguagem de Programação I
+
+Ementa
+
+Introdução aos paradigmas de linguagens de programação. Conceitos de linguagens de programação, compilação e interpretação. Estrutura de programas, dado, variável e instrução. Tipos e estruturas elementares de dados. Tipos Abstratos de Dados. Entrada e saída de dados. Operadores. Instruções condicionais, incondicionais e de repetição. Estruturas compostas de dados: vetores, matrizes e registros. Recursividade. Modularização. Noções de arquivos em programação. Algoritmos e aplicações.
+
+Objetivos
+
+Ser capaz de resolver problemas através da interpretação de cenários do mundo real, modelando soluções através de algoritmos e estruturas de dados básicas e implementando as soluções através de programas de computador escritos em uma linguagem de programação estruturada.
+
+Conteúdo programático
+
+Linguagens de programação: Principais linguagens de programação e suas características, compiladores e interpretadores
+Introdução à linguagem C
+Estrutura de um programa em C
+Tipos de dados (char, int, float, double, etc.)
+Modificadores (unsigned, long, short, etc.)
+Constantes e variáveis
+Entrada e saída de dados (funções printf e scanf)
+Operadores aritméticos e de atribuição
+Operadores relacionais e lógicos
+Estruturas de controle
+Estruturas de Repetição
+Vetores e Matrizes
+Funções e procedimentos
+Recursividade
+Ponteiros
+ 
+
+Metodologia
+
+Aulas práticas e expositivas com constante participação dos alunos.
+
+
+Avaliação
+
+Prova individual (P1) - 4,0pts
+
+Lista de Exercícios (L1) - 1,0pt
+
+Prova individual (P2) - 4,0pts
+
+Lista de Exercícios (L2) - 1,0pt
+
+ Média = P1 + L1 + P2 + L2
+
+ 
+Referências
+
+Bibliografia básica: 
+
+CORMEN, T. H. et al. Introduction to Algorithms. 2nd. ed. [S.l.]: The MIT Press, 2009. ISBN 0262032937.
+
+KNUTH, D.E. The Art of Computer Programming. [S.l.]: Addison-Wesley, 1973. v. 1 - 3.
+
+SEDGEWICK, R., WAYNE, K. Algorithms. 4th edition. ed. [S.l.]: Addison-Wesley, 2011. v. 4. LINK>>https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/index.html.
+
+SCHILDT, H.; MAYER, R. C completo e total. Pearson Universidades, 1997. ISBN 9788534605953. Disponível em: <https://books.google.com.br/books?id=PbI0AAAACAAJ>.
+
+ 
+PINHEIRO, Francisco A. C. Elementos de programação em C. Porto Alegre: Bookman, 2012. 528 p. ISBN 9788540702028.
+
+
+EDELWEISS, Nina; LIVI, Maria Aparecida Castro. Algoritmos e programação com exemplos em Pascal e C. Porto Alegre: Bookman, 2014. 446 p. (Série livros didáticos informática UFRGS; 23). ISBN 9788582601891.
+
+
+DAMAS, Luis. Linguagem C. 10. ed. Rio de Janeiro: LTC, 2007. x, 410 p. ISBN 8521615191.
+
+ 
+
+Bibliografia complementar: 
+
+LEISERSON, Charles E; RIVEST, Ronald L.; STEIN, Clifford; CORMEN, Thomas H. Algoritmos: teoria e prática. Rio de Janeiro: Elsevier, 2012. 926 p. ISBN 9788535236996 (4 exemplares)
+
+
+MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. Algoritmos: lógica para desenvolvimento de programação de computadores. 27. ed. rev. São Paulo: Érica, 2014. 328 p. ISBN 9788536502212.
+
+
+SILVA FILHO, Antônio Mendes da. Introdução à programação orientada a objetos com C++. Rio de Janeiro: Elsevier, 2010. 283 p. ISBN 9788535237023.
+
+
+ZIVIANI, Nivio; BOTELHO, Fabiano Cupertino. Projeto de algoritmos: com implementações em Java e C++. São Paulo: Cengage Learning, 2013. 621 p. ISBN 9788522105250.
+
+ 
