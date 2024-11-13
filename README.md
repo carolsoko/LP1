@@ -13,21 +13,35 @@ Ser capaz de resolver problemas através da interpretação de cenários do mund
 
 # Conteúdo programático
 
-Linguagens de programação: Principais linguagens de programação e suas características, compiladores e interpretadores
-Introdução à linguagem C
-Estrutura de um programa em C
-Tipos de dados (char, int, float, double, etc.)
-Modificadores (unsigned, long, short, etc.)
-Constantes e variáveis
-Entrada e saída de dados (funções printf e scanf)
-Operadores aritméticos e de atribuição
-Operadores relacionais e lógicos
-Estruturas de controle
-Estruturas de Repetição
-Vetores e Matrizes
-Funções e procedimentos
-Recursividade
-Ponteiros
+1- Linguagens de programação: Principais linguagens de programação e suas características, compiladores e interpretadores
+
+2- Introdução à linguagem C
+
+3- Estrutura de um programa em C
+
+4- Tipos de dados (char, int, float, double, etc.)
+
+5- Modificadores (unsigned, long, short, etc.)
+
+6- Constantes e variáveis
+
+7- Entrada e saída de dados (funções printf e scanf)
+
+8- Operadores aritméticos e de atribuição
+
+9- Operadores relacionais e lógicos
+
+10- Estruturas de controle
+
+11- Estruturas de Repetição
+
+12- Vetores e Matrizes
+
+13- Funções e procedimentos
+
+14- Recursividade
+
+15- Ponteiros
  
 
 # Avaliação
