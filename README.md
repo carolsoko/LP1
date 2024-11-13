@@ -1,5 +1,7 @@
 # LP1
-Repositório da disciplina de ESP 201 - Linguagem de Programação I - IFBA Campus Feira de Santana
+Repositório da disciplina ESP 201 - Linguagem de Programação I
+
+Bacharelado em Sistemas de Informação - IFBA Campus Feira de Santana
 
 Profª Ana Carolina Sokolonski Anton
 
