@@ -37,7 +37,7 @@ Ser capaz de resolver problemas através da interpretação de cenários do mund
 
 11- Estruturas de Repetição
 
-12- Vetores e Matrizes
+12- Vetores. Matrizes e Structs
 
 13- Funções e procedimentos
 
