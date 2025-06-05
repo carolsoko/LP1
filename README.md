@@ -46,17 +46,23 @@ Ser capaz de resolver problemas através da interpretação de cenários do mund
 15- Ponteiros
  
 
-# Avaliação
+# Avaliações
 
-Prova individual (P1) - 4,0pts
+Unidade 1
 
-Lista de Exercícios (L1) - 1,0pt
+Prova individual (P1) - 8,0pts
 
-Prova individual (P2) - 4,0pts
+Lista de Exercícios (L1) - 2,0pts
 
-Lista de Exercícios (L2) - 1,0pt
 
- Média = P1 + L1 + P2 + L2
+Unidade 2
+
+Prova individual (P2) - 8,0pts
+
+Lista de Exercícios (L2) - 2,0pts
+
+
+ Média = ((P1 + L1) + (P2 + L2))/2
 
 
 
