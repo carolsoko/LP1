@@ -5,6 +5,11 @@ Bacharelado em Sistemas de Informação - IFBA Campus Feira de Santana
 
 Profª Ana Carolina Sokolonski Anton
 
+
+[Link](https://github.com/carolsoko/SlidesLP1) para slides da disciplina
+
+[Link](https://github.com/carolsoko/CodigosFonteLP1) para códigos-fonte da disciplina
+
 # Ementa
 
 Introdução aos paradigmas de linguagens de programação. Conceitos de linguagens de programação, compilação e interpretação. Estrutura de programas, dado, variável e instrução. Tipos e estruturas elementares de dados. Tipos Abstratos de Dados. Entrada e saída de dados. Operadores. Instruções condicionais, incondicionais e de repetição. Estruturas compostas de dados: vetores, matrizes e registros. Recursividade. Modularização. Noções de arquivos em programação. Algoritmos e aplicações.
